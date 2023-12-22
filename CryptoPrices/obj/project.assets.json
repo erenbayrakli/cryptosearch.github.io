@@ -1,0 +1,103 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "CryptoPrices.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/CryptoPrices.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CryptoPrices.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptoPrices.Infra/1.0.0": {
+      "type": "project",
+      "path": "../CryptoPrices.Infra/CryptoPrices.Infra.csproj",
+      "msbuildProject": "../CryptoPrices.Infra/CryptoPrices.Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "CryptoPrices.Infra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ebayrakli\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ebayrakli\\Desktop\\CryptoPrices\\CryptoPrices\\CryptoPrices.csproj",
+      "projectName": "CryptoPrices",
+      "projectPath": "C:\\Users\\ebayrakli\\Desktop\\CryptoPrices\\CryptoPrices\\CryptoPrices.csproj",
+      "packagesPath": "C:\\Users\\ebayrakli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ebayrakli\\Desktop\\CryptoPrices\\CryptoPrices\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ebayrakli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://10.20.0.4:9002/repository/nuget-hosted/": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\ebayrakli\\Desktop\\CryptoPrices\\CryptoPrices.Infra\\CryptoPrices.Infra.csproj": {
+              "projectPath": "C:\\Users\\ebayrakli\\Desktop\\CryptoPrices\\CryptoPrices.Infra\\CryptoPrices.Infra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.20.0.4:9002/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

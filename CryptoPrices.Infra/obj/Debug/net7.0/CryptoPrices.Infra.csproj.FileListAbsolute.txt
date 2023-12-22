@@ -1,0 +1,11 @@
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\bin\Debug\net7.0\CryptoPrices.Infra.deps.json
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\bin\Debug\net7.0\CryptoPrices.Infra.dll
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\bin\Debug\net7.0\CryptoPrices.Infra.pdb
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\CryptoPrices.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\CryptoPrices.Infra.AssemblyInfoInputs.cache
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\CryptoPrices.Infra.AssemblyInfo.cs
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\CryptoPrices.Infra.csproj.CoreCompileInputs.cache
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\CryptoPrices.Infra.dll
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\refint\CryptoPrices.Infra.dll
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\CryptoPrices.Infra.pdb
+C:\Users\ebayrakli\Desktop\CryptoPrices\CryptoPrices.Infra\obj\Debug\net7.0\ref\CryptoPrices.Infra.dll

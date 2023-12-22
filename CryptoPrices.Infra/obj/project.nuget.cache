@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHHuPOu7nhWF/TtQ0WoyQsA/d5R3ZGOOCoKg4zp12X9xC+1Ln/7bDNVvVG6DhasBEhl+nZ2u4ne3zTqe/r46Tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ebayrakli\\Desktop\\CryptoPrices\\CryptoPrices.Infra\\CryptoPrices.Infra.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.20.0.4:9002/repository/nuget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

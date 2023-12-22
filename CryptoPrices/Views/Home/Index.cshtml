@@ -1,0 +1,27 @@
+﻿@using CryptoPrices.Infra.Models;
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model CryptoResponseModel;
+
+}
+
+<div class="text-center">
+
+
+    <form action="/Home/Index" method="POST"> 
+        <div class="d-flex justify-content-center">
+
+            @Html.TextBoxFor(model => model.Code, new { placeholder = "Enter Coin Code", @class = "form-control ", style="width:35%; border-radius: 2rem;  height: 50px;margin:15px;",  type="search" } ) 
+            <button type="submit" class="btn btn-outline-success" style="border-radius: 2rem">Search</button>
+            <br />
+        </div>
+
+        <span style="color:wheat; font-size:40px ">@Model.Value</span>
+
+    </form>
+    @if (Model.Error != null)
+    {
+        <span style="color:wheat; font-size:30px ">@Model.Error</span>
+
+    }
+</div>

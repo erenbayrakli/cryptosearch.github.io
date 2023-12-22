@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CryptoPrices/1.0.0": {
+        "dependencies": {
+          "CryptoPrices.Infra": "1.0.0"
+        },
+        "runtime": {
+          "CryptoPrices.dll": {}
+        }
+      },
+      "CryptoPrices.Infra/1.0.0": {
+        "runtime": {
+          "CryptoPrices.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptoPrices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptoPrices.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
